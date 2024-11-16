@@ -2,7 +2,7 @@
 ## Examen 1
 # Half MITM = Fake BTS only
 <p align="center">
-  <img width="600" height="400" src="https://github.com/SitrakaResearchAndPOC/GSM_IMSICATCHER_HALFMITM_SPOOFING-SMS-WITH-PHYSICAL-MS/blob/main/2G.jpg">
+  <img width="600" height="400" src="https://github.com/SitrakaResearchAndPOC/TP_Adminstration_Linux/blob/main/Examen1.JPG">
 </p>
 
 ## Examen 2
